@@ -1,5 +1,7 @@
 # LearnAngular
 
+This is my learning Angular repository, which serves the purpose of documenting my journey with learning the Angular framework. This is probably of no use to anyone that's not me.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
 ## Development server
